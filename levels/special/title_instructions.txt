@@ -1,0 +1,2 @@
+Background 0 0 ../sprites/backgrounds/title/title.png
+Text 240 240 [Hello world,12,black]

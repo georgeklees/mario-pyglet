@@ -1,0 +1,1 @@
+from heroes.mario import *

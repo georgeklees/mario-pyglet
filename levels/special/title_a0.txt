@@ -1,0 +1,6 @@
+Background 0 0 ../sprites/backgrounds/title/title.png
+MusicPlayer 0 0 title
+Button 240 240 [../sprites/ui/story_mode.png,title.on_story_mode_click]
+Button 240 176 [../sprites/ui/instructions.png,title.on_instructions_click]
+Button 240 112 [../sprites/ui/story.png,title.on_story_click]
+Button 240 48 [../sprites/ui/exit.png,title.on_exit_click]
