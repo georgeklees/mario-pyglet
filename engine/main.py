@@ -20,7 +20,7 @@ def update(dt):
         while True:
             pass
 
-# Initialize the savefiles, worlds, and levels
+# Initialize the savefiles, worlds, levels, and graphics
 save.init_savefiles()
 worlds.init_worlds()
 level.init_levels()
