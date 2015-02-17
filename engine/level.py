@@ -22,8 +22,6 @@ def str2list(string):
     string = string.replace('[','')
     string = string.replace(']','')
 
-    print(string)
-
     return string.split(',')
 
 class Background(pyglet.sprite.Sprite):
@@ -42,6 +40,7 @@ class Area:
             # Create an object list and graphics batch for the area
             self.objects = []
             self.batch = pyglet.graphics.Batch()
+            self.music = None
             
             self.background = pyglet.graphics.OrderedGroup(0)
             self.foreground = pyglet.graphics.OrderedGroup(1)
@@ -51,6 +50,7 @@ class Area:
         elif mode == 1:
             pass
     def read(self, filename):
+        """Read area data from a data file into an Area object"""
         # Open the area file
         fin = open(filename, 'r')
 
@@ -71,7 +71,8 @@ class Area:
             if name == "Background":
                 obj = Background(img=pyglet.image.load(properties), x=x, y=y, batch=self.batch, group=self.background)
             if name == "MusicPlayer":
-                obj = music.MusicPlayer(name=properties)
+                self.music = music.MusicPlayer(name=properties)
+                continue
             
             # Heroes
             if name == "Player":
@@ -103,6 +104,7 @@ class Area:
 
             self.objects.append(obj)
     def play(self):
+        """Switch to this area"""
         global current_area
 
         old_area = current_area
@@ -123,7 +125,17 @@ class Area:
 
         # Switch to the new graphics
         graphics.set_current_batch(self.batch)
+
+        # If the old music is different, stop it and begin ours from 0
+        if old_area:
+            if self.music.sample_name != old_area.music.sample_name:
+                old_area.music.pause()
+                self.music.seek(0.0)
+                self.music.play()
+        else:
+            self.music.play()
     def end(self):
+        """End gameplay of this area"""
         window = graphics.get_current_window()
         
         for obj in self.objects:
@@ -142,6 +154,7 @@ class Level:
         elif mode == 1:
             pass
     def read(self, filename):
+        """Read each area into memory"""
         # Open the area file
         fin = open(filename, 'r')
 
@@ -151,6 +164,7 @@ class Level:
             area = Area(os.path.dirname(filename) + '/' + line.strip('\n'), 0)
             self.areas.append(area)
     def play(self):
+        """Switch to the first area of this level"""
         global current_level
         
         current_level = self

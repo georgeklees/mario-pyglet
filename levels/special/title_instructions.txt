@@ -1,2 +1,3 @@
 Background 0 0 ../sprites/backgrounds/title/title.png
+MusicPlayer 0 0 title
 Text 240 240 [Hello world,12,black]

@@ -1,6 +1,6 @@
 import pyglet
 
-# Music names
+# Music sample names
 music = {'title':'../music/ending_credits.mp3'}
 
 class MusicPlayer(pyglet.media.Player):
@@ -8,12 +8,11 @@ class MusicPlayer(pyglet.media.Player):
         # Initialize the Player class
         super().__init__()
 
-        # Load the music file
+        # Load the sample and queue it on our player
         source = pyglet.media.load(music[name])
         self.queue(source)
-    def on_load(self):
-        self.play()
-    def on_unload(self):
-        self.pause()
+
+        # Set our sample name
+        self.sample_name = name
         
         
