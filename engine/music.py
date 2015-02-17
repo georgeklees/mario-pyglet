@@ -29,3 +29,4 @@ class MusicPlayer(pyglet.media.Player):
                 current_player = self
         except:
             super().play()
+            current_player = self
