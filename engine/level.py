@@ -123,17 +123,9 @@ class Area:
             obj.on_load()
             window.push_handlers(obj)
 
-        # Switch to the new graphics
+        # Switch to the new graphics and music
         graphics.set_current_batch(self.batch)
-
-        # If the old music is different, stop it and begin ours from 0
-        if old_area:
-            if self.music.sample_name != old_area.music.sample_name:
-                old_area.music.pause()
-                self.music.seek(0.0)
-                self.music.play()
-        else:
-            self.music.play()
+        self.music.play()
     def end(self):
         """End gameplay of this area"""
         window = graphics.get_current_window()
