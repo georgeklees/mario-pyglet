@@ -1,0 +1,101 @@
+Goomba:
+HP: 1
+Attack: 1
+Defense: 0
+Other: Can drop Dried Shrooms
+
+Koopa Troopa:
+HP: 2
+Attack: 1
+Defense: 1
+Other: Can drop Turtley Leaves
+
+Hammer Bro:
+HP: 4
+Attack: 1
+Attack (hammer): 4
+Defense: 2
+
+Boomerang Bro:
+Same as Hammer Bro
+Attack (boomerang): 4
+
+Piranha Plant:
+HP: 5
+Attack: 3
+Defense: 0
+
+Paragoombas:
+
+Paratroopas:
+
+Venus Fire Trap:
+Same stats as Piranha Plants
+Attack (fire): 5
+
+Buzzy Beetle:
+HP: 2
+Attack: 1
+Defense: 3
+Other: Turn into shells when jumped on, immune to fire
+
+Spike Top:
+Same as Buzzy Beetle
+Attack (spike): 1
+
+Spiny:
+HP: 4
+Attack: 2
+Defense: 3
+
+Lakitu:
+HP: 5
+Attack: 2
+Defense: 0
+
+Bullet Bill:
+HP: 2
+Attack: 4
+Defense: 1
+
+Bob-omb:
+HP: 4
+Attack: 1
+Attack (explosion): 3
+Defense: 1
+
+Pokey:
+HP: 6
+Attack: 3
+Defense: 0
+
+Cheep Cheep:
+HP: 2
+Attack: 1
+Defense: 0
+
+Blooper:
+HP: 3
+Attack: 2
+Defense: 0
+Other: Can drop Inky Sauce
+
+Sledge Bro:
+HP: 7
+Attack: 3
+Attack (hammer): 7
+Defense: 3
+Other: Ground-pounding stuns players on ground, for 3 seconds
+
+Fire Bro:
+Same as Hammer Bro
+Attack (fireball): 5
+
+Ice Bro:
+Same as Hammer Bro
+Attack (iceball): 5
+
+Venus Ice Trap:
+Same stats as Piranha Plants
+Attack (ice): 5
+Other: Player temporarily frozen in ice block, enemies can be too

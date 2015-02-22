@@ -1,5 +1,4 @@
-Part 1 - Bowser's Invasion
-
+Part 1 - Mushroom World
 World 0 - Toad Town
 
 World 1 - Yoshi's Island (Junior and Kamek)
@@ -16,25 +15,12 @@ World 6 - Sherbert Mountains (Lemmy and Ludwig)
 
 World 7 - Boo Woods (Bloo and King Boo)
 
-World 8 - Dark Land (Bowser)
+World 8 - Dark Land (Bowser and Wart)
 
 
 
-Part 2 - The Origin Star
-
+Part 2 - Subcon
 World 0 - Shy City
-
-World 1 - Subcon Plains (Birdo)
-
-World 2 - Subcon Desert (Tryclyde)
-
-World 3 - Subcon Plains (Mouser)
-
-World 4 - Subcon Ocean (Clawgrip)
-
-World 5 - Subcon Plains (Fryguy)
-
-World 6 - Subcon Desert (Tryclyde)
 
 World 7 - Subcon Sky
 
@@ -42,22 +28,11 @@ World 8 - Subcon Castle (Kamek, Wart, and Sly Guy)
 
 
 
-Part 3 - A Purity Heart to Save the Worlds
-
-World 0 - Flipside
-
-World 1 -
-
-World 2 -
-
-World 3 -
-
-World 4 -
-
-World 5 -
-
-World 6 -
-
-World 7 -
-
+Part 3 - Multiverse
+World 0 - Flipside/Flopside
+World 7 - The Underwhere
 World 8 - Castle Dimentio
+
+Part 4 - Multiverse
+World 0 - Rogueport
+World 8 - Palace of Shadow
