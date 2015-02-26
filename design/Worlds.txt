@@ -20,11 +20,16 @@ World 8 - Dark Land (Bowser and Wart)
 
 
 Part 2 - Subcon
-World 0 - Shy City
+World 0 - Shy Guy City
 
-World 7 - Subcon Sky
-
-World 8 - Subcon Castle (Kamek, Wart, and Sly Guy)
+World 1 - Subcon Desert (Tryclyde)
+World 2 - Grassy Falls (Mouser)
+World 3 - Birdo Caves (Birdo)
+World 4 - Polar Caps (Sly Guy)
+World 5 - Subcon Sea (Kamek)
+World 6 - Clawgrip Chambers (Clawgrip)
+World 7 - Pidget Peaks (Bowser and Junior)
+World 8 - Subcon Sky / Castle (Kamek, Wart, and Sly Guy)
 
 
 
