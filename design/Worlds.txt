@@ -1,20 +1,12 @@
 Part 1 - Mushroom World
 World 0 - Toad Town
-
 World 1 - Yoshi's Island (Junior and Kamek)
-
 World 2 - Isle Delfino (Wendy and Gooper Blooper)
-
 World 3 - Kongo Jungle (Roy and Morton)
-
 World 4 - Hot Hot Desert (Wario Bros. and Boom Boom and Pom Pom)
-
 World 5 - Toxic Forest (Larry, Iggy, and Petey Piranha)
-
 World 6 - Sherbert Mountains (Lemmy and Ludwig)
-
 World 7 - Boo Woods (Bloo and King Boo)
-
 World 8 - Dark Land (Bowser and Wart)
 
 

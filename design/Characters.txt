@@ -1,0 +1,41 @@
+Heroes:
+-Mario
+-Luigi
+-Yoshi
+-Peach
+-Donkey Kong
+-Wario (parts 2-4)
+-Bowser (parts 2-4)
+-Toad
+-Daisy
+-Rosalina
+
+Secondary heroes:
+-Toadsworth (parts 1, 4)
+-Toadette (parts 1, 4)
+-Diddy Kong (part 1)
+-Blumiere (parts 3-4)
+-Timpani (parts 3-4)
+-Mimi (parts 3-4)
+-O'Chunks (parts 3-4)
+-Nastasia (parts 3-4)
+
+Villains:
+-Bowser (parts 1-2)
+-Junior (part 1)
+-Kamek (parts 1-3)
+-Koopalings (part 1)
+-Wart (parts 1-3)
+-Sly Guy (parts 1-3)
+-Dimentio (part 3)
+-Count Bleck (part 3)
+-Shadoo (part 3)
+-Shadow Queen (parts 3-4)
+
+Secondary villains:
+-Wario (part 1)
+-Waluigi (part 1)
+-Boom Boom/Pom Pom (part 1)
+-Gooper Blooper (part 1)
+-Petey Piranha (part 1)
+-King Boo (part 1)
