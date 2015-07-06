@@ -17,9 +17,9 @@ World 0 - Shy Guy City
 World 1 - Subcon Desert (Tryclyde)
 World 2 - Grassy Falls (Mouser)
 World 3 - Birdo Caves (Birdo)
-World 4 - Polar Caps (Sly Guy)
-World 5 - Subcon Sea (Kamek and Wart)
-World 6 - Clawgrip Chambers (Clawgrip)
+World 4 - Polar Caps (Fry Guy)
+World 5 - Subcon Sea (Wart and Sly Guy)
+World 6 - Clawgrip Chambers (Clawgrip, Kamek)
 World 7 - Pidget Peaks (Bowser and Junior)
 World 8 - Subcon Sky / Castle (Kamek, Wart, and Sly Guy)
 
@@ -29,13 +29,9 @@ Part 3 - Multiverse
 World 0 - Flipside/Flopside
 World 1 - Subcon
 World 2 - <Plague world>
-World 3 - Lylat System
+World 3 - Mushroom World (Lord Crump, Sir Grodus)
 World 4 - The Microsphere
-World 5 - <Metroid dimension> (Ridley)
+World 5 - <Digital world>
 World 6 - Lineland (Count Bleck, Wracktail, Dimentio)
 World 7 - The Underwhere
 World 8 - Castle Dimentio (Kamek, Wart, Sly Guy, Count Bleck, Shadoo, Dimentio)
-
-Part 4 - Multiverse
-World 0 - Rogueport
-World 8 - Palace of Shadow
