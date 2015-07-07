@@ -43,7 +43,7 @@
 -The Mushroom World is colonized by the Ancients
 	-Tribe of Ancients spread its influence across other dimensions, including the Mushroom World
 	-Indigenous Mushroom World inhabitants were Goombas, which the Ancient humans interbred with, creating Toad race
-	-Over time, the Toads came to assert their dominance over Goombas, driving many of them to the neighboring Koopa Kingdom
+	-Over time, the Toads came to assert their dominance over Goombas, driving many of them to hate the humans and Toads
 -Alliance between the Tribe of Darkness and the Shy Guys
 	-The Tribe of Darkness takes the Dark Prognosticus with them after splitting off from the Ancients, claiming to be protecting it
 	-The Tribe of Ancients, however, believes that they are using it to increase their dark magical powers and use it for evil
@@ -66,7 +66,8 @@
 	-Several of the Shy Guy leaders who entered into the alliance with Ganter are exiled, including Sly Guy
 	-A small amount of Shy Guys are sent to other worlds (including the Mushroom World) to keep watch over the Origin Star pieces
 -Fate of the Mushroom World
-	-The human Ancients mostly died out, but there were some survivors scattered across the world
-		-Peach and Daisy's families became nobility, leading kingdoms (the Mushroom Kingdom and Sarasaland)
-		-Others, like Mario and Luigi's parents, lived in more remote areas of the world (such as Yoshi's Island)
-		-Some families, like Wario and Waluigi's, were destitue and unscrupulous people
+	-The human Ancients mostly die out, but there are some survivors scattered across the world
+		-Peach and Daisy's families become nobility, leading kingdoms (the Mushroom Kingdom and Sarasaland)
+		-Others, like Mario and Luigi's parents, live in more remote areas of the world (such as Yoshi's Island)
+		-Some families, like Wario and Waluigi's, are destitue and unscrupulous people
+	-Losing their Shy Guy allies, some Goombas flee to the neighboring Koopa Kingdom
