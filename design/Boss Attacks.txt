@@ -1,0 +1,24 @@
+Giant Bowser:
+-Hand swipes
+-Spitting fireballs
+-Shooting a continuous stream of fire
+-Jumping to create lava waves
+
+Dimentio:
+-All of Dimentio and Bleck's SPM powers
+-Elemental magic (fire, water, air, earth)
+-Firing explosive dimensional blocks
+-Summoning enemies
+-Dark magic projectiles
+-Wrapping the hero in tendrils of dark magic
+-Curses and status ailments
+-Making explosions without the blocks
+-Heal himself
+-Having his clones shuffle themselves
+-Creating waves of clones to push the heroes
+-Shooting a concentrated blast of dark energy
+-Explosive box attack, that reduces HP to 1
+-Stealing items when you use them
+-Freezing you while moving and launching an attack
+-Grabbing you when you get too close
+-Leeching HP from you
